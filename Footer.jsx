@@ -5,8 +5,8 @@ function  Footer(){
   var currYear=new Date().getFullYear();
   return  (
     <footer>
-      <p>Copyright @ {currYear}</p>
-      </footer>
+      <p>RAIYAN Copyright @ {currYear}</p>
+    </footer>
   );
 
 }
