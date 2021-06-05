@@ -11,6 +11,6 @@ function  Note(){
    </div>
   );
 
-}
+};
 
 export  default Note;
