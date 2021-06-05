@@ -11,7 +11,7 @@ function  App(){
   <Note />
   <Note />
   <Note />
-      </div>
+    </div>
   );
 
 }
